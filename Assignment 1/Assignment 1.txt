@@ -1,0 +1,20 @@
+1. Structural Health Monitoring
+2. Predictive Maintenance
+3. Energy Management
+4. Outdoor Surveillance
+5. Smart Lighting
+6. Electronic Road Toll Collection and Traffic Management
+7. Smart Parking
+8. Noise Monitoring
+9. Waste Management
+10. Water Conservation
+11. Smart Irrigation
+12. Leakage Management
+13. Water Quality Management
+14. Ultraviolet Radiation Monitoring
+15. Fall Detection
+16. Patient Surveillance/Remote Patient Monitoring
+17. Smart Product Management
+18. Remote Control Appliances
+19. Smart Locks
+20. Motion Detection
